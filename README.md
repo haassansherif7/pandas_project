@@ -8,7 +8,7 @@ This project analyzes a dataset of used cars , providing various visualizations 
 
 The dataset used in this project is sourced from Kaggle:
 
-[Germany Used Cars Dataset 2023]([https://www.kaggle.com/datasets/michau96/poland-cars-for-sale](https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023))
+[Germany Used Cars Dataset 2023](https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023)
 
 **Note:** The dataset file is large and therefore **not included** in this repository. You need to download it manually from the above link.
 
